@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, bug in JavaScript related to loose equality (==). The bug.js file contains the faulty code. The bugSolution.js file provides a corrected version using strict equality (===). Loose equality can lead to unexpected behavior due to type coercion.  The readme provides details on how to reproduce the bug and the corrected solution.
